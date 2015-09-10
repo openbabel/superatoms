@@ -95,7 +95,6 @@ SCN      NCS      N=C=S
 NHAm     AmHN     NCCCCC
 NHBn     BnHN     NCC1=CC=CC=C1
 NHBu     BuHN     NCCCC
-NHEt     EtHB     NCC
 NHOH     HOHN     NO
 NHPr     PrHN     NCCC
 NO       ON       N=O
